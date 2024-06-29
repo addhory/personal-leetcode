@@ -16,4 +16,5 @@ function twoSum(nums: number[], target: number): number[] {
 }
 
 const sum = twoSum(source, 9);
-console.log(sum);
+
+export {};
